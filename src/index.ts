@@ -1,3 +1,3 @@
-import { digitalRoot } from "./DigitalRoot";
+import { findOdd } from "./findOdd";
 
-console.log(digitalRoot(395844327038)); 
+console.log(findOdd([10,10,1,0,2,2,1,0,2])); 
