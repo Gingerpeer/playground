@@ -1,3 +1,3 @@
-import { findOdd } from "./findOdd";
+import { orderStringByNum } from "./orderStringByNum";
 
-console.log(findOdd([10,10,1,0,2,2,1,0,2])); 
+console.log(orderStringByNum("is2 Thi1s T4est 3a")); 
