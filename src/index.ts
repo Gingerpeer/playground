@@ -1,3 +1,3 @@
-import { orderStringByNum } from "./orderStringByNum";
+import { encryptThis } from "./encryptThis";
 
-console.log(orderStringByNum("is2 Thi1s T4est 3a")); 
+console.log(encryptThis("A")); 
