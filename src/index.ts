@@ -1,3 +1,1 @@
-import { encryptThis } from "./encryptThis";
-
-console.log(encryptThis("A")); 
+// import { encryptThis } from "./encryptThis";
