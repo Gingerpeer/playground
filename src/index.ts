@@ -1,5 +1,4 @@
-import add from "./chainCallingFunc"
+import { sqInRect } from "./sqInRect"
 
 
-
-console.log(add(2) + 0)
+console.log(sqInRect(5,3))
